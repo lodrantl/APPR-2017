@@ -2,10 +2,17 @@
 
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2016/17
 
+Avtor: Luka Lodrant
+
 ## Tematika
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal. Tukaj boste
-napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+Za temo svojega projekta sem si izbral analizo podatkov o globalnem segrevanju. Primerjal bom podatke o povprečnih mesečnih temperaturah v zadnjih 300 letih po celem svetu in v njih poskusil najti razne vzorce. Poleg tega bom za zadnje 50 let zajel tudi podatke o CO2 izpustih, poseku gozdov, porabi sveže vode in pa številu prebivalstva in poskusil najti povezave med temi podatki in povrečnimi temperaturami.
+
+Podatki bodo zajeti iz sledečih spletnih strani:
+* http://data.worldbank.org/topic/climate-change
+* https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+
+Prek pridobljenih podatkov bom poskusil tudi napovedati temparature površja v prihodnosti, in na modelu ugotoviti, izboljšanje katerega izmed primarnih onesnaževalnih dejavnikov bi najbolj umirilo rast temperatur.
 
 ## Program
 
